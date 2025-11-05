@@ -118,6 +118,3 @@ You can retrain the model or fine-tune it for new gestures using the provided tr
 **Soundarya G M**
 🎓 B.Tech in Artificial Intelligence and Machine Learning
 🏫 Srinivas University Institute of Engineering and Technology
-
-> “Nothing feels better in this world.” 💫
-
